@@ -6,6 +6,9 @@
 * Build script using Maven build tool in association with JUnit validation
 * ...
 
+#### Screen-shots
+![Build apo by terminal with maven](./imgs/build-screenshot.png)
+
 #### Connect me via viettien1602@gmail.com
 
 #### Copyright &#169; 2022 nvitie
